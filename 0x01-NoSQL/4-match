@@ -1,0 +1,2 @@
+//list all docs in colection with certain key phrase
+db.school.find({name:"Holberton school"})
